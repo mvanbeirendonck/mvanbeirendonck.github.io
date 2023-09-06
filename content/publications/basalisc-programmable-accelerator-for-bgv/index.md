@@ -5,8 +5,8 @@ title: 'BASALISC: Programmable Hardware Accelerator for BGV Fully Homomorphic En
 citation: "Robin Geelen, Michiel Van Beirendonck, Hilder V. L. Pereira, Brian Huffman, Tynan McAuley, Ben Selfridge, Daniel Wagner, Georgios Dimou, Ingrid Verbauwhede, Frederik Vercauteren, David W. Archer
 "
 
-date: '2023-05-27' # TODO
-doi: '' # TODO
+date: '2023-08-31'
+doi: '10.46586/tches.v2023.i4.32-57'
 
 # Publication name
 publication: 'IACR TCHES'
