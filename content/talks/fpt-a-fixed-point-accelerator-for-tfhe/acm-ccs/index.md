@@ -4,16 +4,14 @@ title: "FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption"
 # Authors
 citation: "Michiel Van Beirendonck"
 
-date: "2023-03-24"
+date: "2023-11-27"
 doi: ""
 
 # Publication name
-publication: "6th HomomorphicEncryption.org Standards Meeting"
-location: "Seoul"
+publication: "ACM CCS"
+location: "Copenhagen"
 
 # Feature
-featured: false
-
+featured: true
 # Custom links (uncomment lines below)
-url_poster: "https://www.esat.kuleuven.be/cosic/publications/talk-588.pdf"
 ---

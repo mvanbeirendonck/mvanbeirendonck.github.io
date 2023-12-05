@@ -4,16 +4,15 @@ title: "BASALISC: Programmable Hardware Accelerator for BGV Fully Homomorphic En
 # Authors
 citation: "Robin Geelen, Michiel Van Beirendonck"
 
-date: "2022-05-29"
-doi: ""
+date: "2023-09-12"
 
 # Publication name
-publication: "1st FHE.org Conference"
-location: "Trondheim"
+publication: "IACR CHES"
+location: "Prague"
 
 # Feature
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
-url_slides: "https://drive.google.com/file/d/1Bx59ARNV7InE8-L4SbNwExCC-CnbMlQt/view"
+url_slides: "https://iacr.org/submit/files/slides/2023/tches/ches2023/4_19/slides.pdf"
 ---
