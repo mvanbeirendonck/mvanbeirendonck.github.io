@@ -4,11 +4,11 @@ title: "FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption"
 # Authors
 citation: "Michiel Van Beirendonck, Jan-Pieter D’Anvers, Furkan Turan, Ingrid Verbauwhede"
 
-date: "2023-09-06" # TODO
-doi: "" # TODO
+date: "2023-11-21"
+doi: "10.1145/3576915.3623159"
 
 # Publication name
-publication: "ACM CCS, to appear" # TODO
+publication: "ACM CCS"
 location: ""
 
 # Feature
