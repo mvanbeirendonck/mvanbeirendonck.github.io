@@ -8,7 +8,7 @@ date: 2022-02-15
 doi: '10.46586/tches.v2022.i2.115-139'
 
 # Publication name
-publication: 'IACR CHES'
+publication: 'IACR TCHES'
 location: ''
 
 # Feature
